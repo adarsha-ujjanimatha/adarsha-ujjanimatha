@@ -1,42 +1,42 @@
-# 👋 Adarsha Ujjanimatha | Data Science Portfolio
+# Hi, I'm Adarsha Ujjanimatha 👋
 
-🎓 MSc Data Science & Analytics | Cardiff University  
-📍 Cardiff, UK  
-📧 adrshum@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/adarsha-ujjanimatha) | [GitHub](https://github.com/adarsha-ujjanimatha)
+## Operations Analyst | Data Analyst | MSc Data Science & Analytics
 
----
-
-## 🧠 About Me
-I’m a results-driven Data Scientist with hands-on experience in machine learning, data visualization, and cloud platforms. I’m passionate about turning messy datasets into powerful insights and solving real-world problems through AI, analytics, and automation.
+📍 Based in Cardiff, Wales, UK
+🎓 MSc Data Science & Analytics — Cardiff University (2024)
+💼 Currently: Operations Support Analyst at Tesco Distribution Centre
+🔍 Seeking: Operations Analyst / Data Analyst roles (UK, visa sponsorship)
 
 ---
 
-## 📂 Portfolio Projects
-
-| Project | Description |
-|--------|-------------|
-| [🎯 YouTube Bait Detector](./Projects/YouTube-Bait-Detector) | AI-powered filter that detects clickbait videos using NLP and ML |
-| [🐶 Stanford Dog Classifier](./Projects/Stanford-Dog-Classification) | Fine-grained image classification using VGG16 & ResNet |
-| [📊 Salary & Workforce Dashboard](./Projects/Salary-Workforce-Dashboard) | BI dashboards using Power BI & Tableau to analyze hiring & salary trends |
-| [🗞️ Newspaper Logistics Efficiency](./Projects/Newspaper-Logistics-Efficiency) | DEA modeling and performance visualization to optimize logistics |
+### What I Do
+I turn operational data into actionable insights. My work sits at the intersection of operations management and data analytics — from warehouse KPI reporting at Tesco to building end-to-end analytics dashboards for healthcare operations.
 
 ---
 
-## 🧾 Certifications
-Check out my [certifications folder](./Certifications) for proof of learning:
-- ✅ TensorFlow Developer
-- ✅ Tableau & Power BI
-- ⏳ AWS Cloud Practitioner (in progress)
-- ⏳ Google Data Analytics (in progress)
+### Featured Project
+
+🏥 **[Adarsha Clinic — Ayurvedic Clinic Operations Dashboard](PASTE_YOUR_REPO_LINK_HERE)**
+- Designed 5-table MySQL database (30,000+ rows)
+- Wrote 20 SQL queries (JOINs, CTEs, Window Functions)
+- Built 4-page interactive Tableau dashboard
+- Python analysis with Pandas, Matplotlib, Seaborn
+- Key finding: identified ~35% therapy dropout rate and ₹X lost revenue
 
 ---
 
-## 📄 CV
-📥 [Click here to view/download my CV](./Adarsha%20Ujjanimatha%20Professional.pdf)
+### Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **SQL** | MySQL, JOINs, CTEs, Window Functions, Subqueries, Aggregations |
+| **Python** | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn |
+| **BI Tools** | Tableau, Power BI (DAX), Advanced Excel |
+| **Operations** | WMS, KPI Reporting, Root Cause Analysis, Process Mapping, SLA Management |
+| **Other** | Jupyter Notebook, Git, Agile/Scrum, ETL |
 
 ---
 
-## 💬 Let's Connect!
-I’m actively seeking full-time opportunities in data science, analytics, and AI roles.  
-Feel free to reach out on [LinkedIn](https://linkedin.com/in/adarsha-ujjanimatha) or via email 📧
+### Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/adarshaujjanimatha)
+- 📧 adrshum@gmail.com
