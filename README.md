@@ -16,7 +16,7 @@ I turn operational data into actionable insights. My work sits at the intersecti
 
 ### Featured Project
 
-🏥 **[Adarsha Clinic — Ayurvedic Clinic Operations Dashboard](PASTE_YOUR_REPO_LINK_HERE)**
+🏥 **[Adarsha Clinic — Ayurvedic Clinic Operations Dashboard] https://github.com/adarsha-ujjanimatha/adarsha-clinic-operations-dashboard**
 - Designed 5-table MySQL database (30,000+ rows)
 - Wrote 20 SQL queries (JOINs, CTEs, Window Functions)
 - Built 4-page interactive Tableau dashboard
